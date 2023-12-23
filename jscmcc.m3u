@@ -2,43 +2,43 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 group-title="中央电视台",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="中央电视台",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="中央电视台",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="中央电视台",CCTV3
 http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="中央电视台",CCTV4
 http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="中央电视台",CCTV5
 http://ott.mobaibox.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="中央电视台",CCTV5+
 http://ott.mobaibox.com/PLTV/3/224/3221227463/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="中央电视台",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="中央电视台",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="中央电视台",CCTV8
 http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="中央电视台",CCTV9
 http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="中央电视台",CCTV10
 http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="中央电视台",CCTV11
 http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="中央电视台",CCTV12
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="中央电视台",CCTV13
 http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="中央电视台",CCTV14
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="中央电视台",CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="中央电视台",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="中央电视台",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/央视高网.png" group-title="中央电视台",央视高网
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 group-title="中央电视台",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -46,72 +46,62 @@ http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 group-title="本地频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="地方卫视",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="地方卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
-#EXTINF:-1 group-title="地方卫视",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="地方卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227486/index.m3u8
-#EXTINF:-1 group-title="地方卫视",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png" group-title="地方卫视",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
-#EXTINF:-1 group-title="地方卫视",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="地方卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 group-title="地方卫视",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="地方卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 group-title="地方卫视",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="地方卫视",四川卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
-#EXTINF:-1 group-title="地方卫视",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="地方卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
-#EXTINF:-1 group-title="地方卫视",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="地方卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
-#EXTINF:-1 group-title="地方卫视",山东卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="地方卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
-#EXTINF:-1 group-title="地方卫视",广东卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="地方卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
-#EXTINF:-1 group-title="地方卫视",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="地方卫视",广西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-#EXTINF:-1 group-title="地方卫视",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="地方卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 group-title="地方卫视",江苏卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="地方卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
-#EXTINF:-1 group-title="地方卫视",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="地方卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-#EXTINF:-1 group-title="地方卫视",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="地方卫视",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-#EXTINF:-1 group-title="地方卫视",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="地方卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 group-title="地方卫视",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="地方卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8
-#EXTINF:-1 group-title="地方卫视",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png" group-title="地方卫视",海南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
-#EXTINF:-1 group-title="地方卫视",深圳卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="地方卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
-#EXTINF:-1 group-title="地方卫视",湖北卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="地方卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
-#EXTINF:-1 group-title="地方卫视",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="地方卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
-#EXTINF:-1 group-title="地方卫视",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="地方卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
-#EXTINF:-1 group-title="地方卫视",贵州卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="地方卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-#EXTINF:-1 group-title="地方卫视",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="地方卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
-#EXTINF:-1 group-title="地方卫视",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="地方卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 group-title="地方卫视",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8
-#EXTINF:-1 group-title="地方卫视",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.eu.org/logo/内蒙古卫视.png" group-title="地方卫视",内蒙古卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
-#EXTINF:-1 group-title="地方卫视",山东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
-#EXTINF:-1 group-title="地方卫视",河南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 group-title="地方卫视",山西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
-#EXTINF:-1 group-title="地方卫视",贵州卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
-#EXTINF:-1 group-title="地方卫视",辽宁卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
-#EXTINF:-1 group-title="地方卫视",重庆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 #EXTINF:-1 group-title="地方卫视",宁夏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
 #EXTINF:-1 group-title="地方卫视",陕西卫视
@@ -120,8 +110,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 #EXTINF:-1 group-title="地方卫视",青海卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
-#EXTINF:-1 group-title="地方卫视",新疆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
 #EXTINF:-1 group-title="地方卫视",西藏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 #EXTINF:-1 group-title="地方卫视",兵团卫视
