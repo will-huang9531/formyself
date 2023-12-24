@@ -42,9 +42,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="中央电视台",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" group-title="中央电视台",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://go.ipayyds.xyz/https://raw.githubusercontent.com/will-huang9531/formyself/main/logo/纯享4K.png" group-title="中央电视台",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="本地频道",苏州4K
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://go.ipayyds.xyz/https://raw.githubusercontent.com/will-huang9531/formyself/main/logo/苏州4k.png“ group-title="本地频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="地方卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
